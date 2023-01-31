@@ -1,11 +1,18 @@
-<h1 align="center">Hi 👋, I'm Mayur</h1>
+![logo](https://github.com/ai-mayurpatil/ai-mayurpatil/blob/main/Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
+
+<h1 align="center">Hi 👋, I'm Mayur Patil</h1>
 <h3 align="center">A passionate data science from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ai-mayurpatil&label=Profile%20views&color=0e75b6&style=flat" alt="ai-mayurpatil" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ai-mayurpatil" alt="ai-mayurpatil" /></a> </p>
+
+
+- 👨‍💻 All of my projects are available at [https://mayurpatil.in/projects](https://mayurpatil.in/projects)
+
+- ⚡ Fun fact **I am funny😅**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ai-mayurpatil&show_icons=true&locale=en" alt="ai-mayurpatil" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ai-mayurpatil&" alt="ai-mayurpatil" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ai-mayurpatil" alt="ai-mayurpatil" /></a> </p>
