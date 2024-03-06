@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mayurpatil.in/projects](https://mayurpatil.in/projects)
 
-- ⚡ Fun fact **I am dicipliner for what i do**
+- ⚡ **I am dicipliner for what i do**
 
 
 <h3 align="left">Connect with me:</h3>
