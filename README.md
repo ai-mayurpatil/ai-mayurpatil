@@ -46,11 +46,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ai-mayurpatil&show_icons=true&locale=en" alt="ai-mayurpatil" />
 </p>
 
-<h3 align="left">GitHub Contribution Streak:</h3>
 
-<p align="left">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ai-mayurpatil" alt="GitHub Streak" /></a>
-</p>
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
