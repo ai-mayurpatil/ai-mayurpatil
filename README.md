@@ -49,7 +49,7 @@
 <h3 align="left">GitHub Contribution Streak:</h3>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ai-mayurpatil&" alt="GitHub Contribution Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ai-mayurpatil" alt="GitHub Streak" /></a>
 </p>
 
 <p align="left"> 
