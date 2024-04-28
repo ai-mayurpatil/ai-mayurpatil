@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=ai-mayurpatil&label=Profile%20views&color=0e75b6&style=flat" alt="ai-mayurpatil" /> 
 </p>
 
-- 👨‍💻 Check out my projects at [https://mayurpatil.in/projects](https://mayurpatil.in/projects)
+- 👨‍💻 Check out my projects at [https://mayurpatil.in](https://mayurpatil.in)
   
 - ⚡ **Dedicated and disciplined in what I do**
 
