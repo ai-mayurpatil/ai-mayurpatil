@@ -1,4 +1,3 @@
-[![](https://visitcount.itsvg.in/api?id=ai-mayurpatil&icon=0&color=0)](https://visitcount.itsvg.in)
 # 💫 About Me:
 👨‍💻 Check out my projects at https://mayurpatil.in<br>⚡ Dedicated and disciplined in what I do
 
@@ -21,5 +20,6 @@
 
 ---
 
+[![](https://visitcount.itsvg.in/api?id=ai-mayurpatil&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
